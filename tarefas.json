@@ -1,0 +1,19 @@
+{
+ "nome": "Giovana",
+  "idade": 16,
+  "naturalidade": "Cascavel",
+  "nacionalidade":"Brasil"
+},
+{
+  "nome": "Daiane Bazanelli",
+  "idade": 41,
+  "naturalidade": "Uberlândia",
+  "nacionalidade": "Brasil"
+  "idade_Filhos": [21, 16]
+  "info_filhos": {
+    "nomes": ["Giovana Bazanell", "Bianca Bazanelli"]
+  }
+},
+{
+  "nome": "luis"
+}
